@@ -1,0 +1,4 @@
+message PresenceMessage
+{
+    int idMs;
+}

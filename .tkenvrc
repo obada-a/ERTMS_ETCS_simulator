@@ -1,0 +1,7 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "Network.srb[0]" "Srb" "2" "607x337+757+24:normal"
+inspector "Network.bsc" "Bsc" "2" "607x337+683+402:normal"
+inspector "Network" "Network" "2" "607x337+64+24:normal"
+inspector "Network.treno" "Treno" "2" "607x337+65+402:normal"
+inspector "Network.treno.ms" "MobileStation" "2" "607x337+68+433:normal"
+

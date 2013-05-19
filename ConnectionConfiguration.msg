@@ -1,0 +1,4 @@
+message ConnectionConfiguration
+{
+    int idServingSrb;
+}

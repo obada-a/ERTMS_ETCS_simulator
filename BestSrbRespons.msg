@@ -1,0 +1,4 @@
+message BestSrbRespons
+{
+    int idBestSrb;
+}

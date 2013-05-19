@@ -1,0 +1,4 @@
+message DriftSrbConfiguration
+{
+    int idDriftSrb;
+}
